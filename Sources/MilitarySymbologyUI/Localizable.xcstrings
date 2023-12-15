@@ -1,0 +1,96 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Amplifier" : {
+
+    },
+    "Amplifier / Descriptor" : {
+
+    },
+    "Context" : {
+
+    },
+    "Copy" : {
+
+    },
+    "Descriptor" : {
+
+    },
+    "Dimension" : {
+
+    },
+    "Entity" : {
+
+    },
+    "Entity Subtype" : {
+
+    },
+    "Entity Type" : {
+
+    },
+    "HQ / Task Force / Dummy" : {
+
+    },
+    "HQTFDummy" : {
+
+    },
+    "No results for '%@'" : {
+
+    },
+    "Not found" : {
+
+    },
+    "Reset to default value" : {
+
+    },
+    "Search symbol" : {
+      "comment" : "Search bar"
+    },
+    "Select amplifier" : {
+
+    },
+    "Select context" : {
+
+    },
+    "Select descriptor" : {
+
+    },
+    "Select dimension" : {
+
+    },
+    "Select entity" : {
+
+    },
+    "Select entity subtype" : {
+
+    },
+    "Select entity type" : {
+
+    },
+    "Select HQ / Task Force / Dummy" : {
+
+    },
+    "Select standard identity" : {
+
+    },
+    "Select status" : {
+
+    },
+    "SIDC:" : {
+
+    },
+    "Standard identity" : {
+
+    },
+    "Standard Identity" : {
+
+    },
+    "Status" : {
+
+    },
+    "Use alternate status amplifiers" : {
+
+    }
+  },
+  "version" : "1.0"
+}
