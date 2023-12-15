@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "militarysymbologyassets",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sergpryimachuk/MilitarySymbologyAssets",
+      "state" : {
+        "branch" : "main",
+        "revision" : "88ef510507c794c42ec34814121a265484436f1d"
+      }
+    },
+    {
+      "identity" : "militarysymbologykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sergpryimachuk/militarysymbologykit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "540406a32b75c646fd5ae496b5f9954eeaf102e6"
+      }
+    }
+  ],
+  "version" : 2
+}
