@@ -2,94 +2,305 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Amplifier" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підсилювач"
+          }
+        }
+      }
     },
     "Amplifier / Descriptor" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підсилювач / Описувач"
+          }
+        }
+      }
     },
     "Context" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Контекст"
+          }
+        }
+      }
     },
     "Copy" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копіювати"
+          }
+        }
+      }
     },
     "Descriptor" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описувач"
+          }
+        }
+      }
     },
     "Dimension" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Простір"
+          }
+        }
+      }
     },
     "Entity" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сутність"
+          }
+        }
+      }
     },
     "Entity Subtype" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підтип сутності"
+          }
+        }
+      }
     },
     "Entity Type" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тип сутності"
+          }
+        }
+      }
     },
     "HQ / Task Force / Dummy" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штаб / Оперативна група / Манекен"
+          }
+        }
+      }
     },
     "HQTFDummy" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штаб / Оперативна група / Манекен"
+          }
+        }
+      }
     },
     "No results for '%@'" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Немає результатів за запитом '%@'"
+          }
+        }
+      }
     },
     "Not found" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не знайдено"
+          }
+        }
+      }
     },
     "Reset to default value" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скинути до значення за замовчуванням"
+          }
+        }
+      }
     },
     "Search symbol" : {
-      "comment" : "Search bar"
+      "comment" : "Search bar",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пошук символа"
+          }
+        }
+      }
     },
     "Select amplifier" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть підсилювач"
+          }
+        }
+      }
     },
     "Select context" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть контекст"
+          }
+        }
+      }
     },
     "Select descriptor" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть дескриптор"
+          }
+        }
+      }
     },
     "Select dimension" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть простір"
+          }
+        }
+      }
     },
     "Select entity" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть сутність"
+          }
+        }
+      }
     },
     "Select entity subtype" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть підтип сутності"
+          }
+        }
+      }
     },
     "Select entity type" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть тип сутності"
+          }
+        }
+      }
     },
     "Select HQ / Task Force / Dummy" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть Штаб / Оперативна група / Манекен"
+          }
+        }
+      }
     },
     "Select standard identity" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оберіть стандартну ідентичність"
+          }
+        }
+      }
     },
     "Select status" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оберіть статус"
+          }
+        }
+      }
     },
     "SIDC:" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SIDC:"
+          }
+        }
+      }
     },
     "Standard identity" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стандартна ідентичність"
+          }
+        }
+      }
     },
     "Standard Identity" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стандартна ідентичність"
+          }
+        }
+      }
     },
     "Status" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Статус"
+          }
+        }
+      }
     },
     "Use alternate status amplifiers" : {
-
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Використовувати альтернативні підсилювачі стану"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
