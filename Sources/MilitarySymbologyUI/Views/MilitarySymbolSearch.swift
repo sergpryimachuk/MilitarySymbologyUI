@@ -48,7 +48,7 @@ private extension MilitarySymbolSearch {
 #if os(iOS)
             .navigationBarDrawer
 #else
-            .toolBar
+            .toolbar
 #endif
     }
 }
