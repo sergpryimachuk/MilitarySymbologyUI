@@ -6,7 +6,7 @@
       "location" : "https://github.com/sergpryimachuk/MilitarySymbologyAssets",
       "state" : {
         "branch" : "main",
-        "revision" : "88ef510507c794c42ec34814121a265484436f1d"
+        "revision" : "83038ac5a398e1fff3ef15528a5039e036d874ba"
       }
     },
     {
@@ -15,7 +15,7 @@
       "location" : "https://github.com/sergpryimachuk/militarysymbologykit",
       "state" : {
         "branch" : "main",
-        "revision" : "d474cc357394a10f0210cb77a5e3aa6f07dd34c9"
+        "revision" : "605b223645c4a5f943924b644b98e9e257b7bd32"
       }
     }
   ],
